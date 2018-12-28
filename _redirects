@@ -3,3 +3,5 @@
 /                https://github.com/laosb/ama/
 /:something      https://github.com/laosb/ama/issues/new?title=:something
 /q/:number       https://github.com/laosb/ama/issues/:number
+
+/rd              https://github.com/laosb/ama/blob/master/_redirects
