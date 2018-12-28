@@ -1,0 +1,5 @@
+# This is used on ask.lao.sb.
+
+/                https://github.com/laosb/ama/
+/:something      https://github.com/laosb/ama/issues/new?title=:something
+/q/:number       https://github.com/laosb/ama/issues/:number
