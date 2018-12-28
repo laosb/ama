@@ -1,7 +1,13 @@
 # This is used on ask.lao.sb.
 
 /                https://github.com/laosb/ama/
-/:something      https://github.com/laosb/ama/issues/new?title=:something
+/q               https://github.com/laosb/ama/issues/
 /q/:number       https://github.com/laosb/ama/issues/:number
-
+/open            https://github.com/laosb/ama/issues/
+/a               https://github.com/laosb/ama/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed
+/closed          https://github.com/laosb/ama/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed
 /rd              https://github.com/laosb/ama/blob/master/_redirects
+
+/:something      https://github.com/laosb/ama/issues/new?title=:something
+
+
